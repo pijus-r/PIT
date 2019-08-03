@@ -1,3 +1,5 @@
+![](https://github.com/pijusrancevas/SnippingToolOCR/master/ico.ico)
+
 # Snipping Tool OCR
 
 ##### Supported OS: WIN 10
