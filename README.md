@@ -1,4 +1,4 @@
-![](https://github.com/pijusrancevas/SnippingToolOCR/master/ico.ico)
+![](https://github.com/pijusrancevas/SnippingToolOCR/master/LOGO.png)
 
 # Snipping Tool OCR
 
