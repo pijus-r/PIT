@@ -1,4 +1,4 @@
-<img src="https://github.com/pijusrancevas/SnippingToolOCR/master/LOGO.png" width="100" height="100"/>
+<img src="/pijusrancevas/SnippingToolOCR/blob/master/LOGO.png?raw=true"/>
 
 
 # Snipping Tool OCR
