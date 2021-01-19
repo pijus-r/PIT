@@ -1,3 +1,5 @@
+no_entry: [DEPRECATED] Active at https://github.com/pijus-r/PIT/
+
 <img src="https://github.com/pijusrancevas/SnippingToolOCR/blob/30531a09167e5e2fa607531a410a2aba5079633f/LOGO.png" width="200px" height="auto"/>
 
 
