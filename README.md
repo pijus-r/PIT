@@ -2,7 +2,7 @@
 
 
 # PIT 
-###Snipping Tool with OCR
+### Snipping Tool with OCR
 
 #### DEPRECATED
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
